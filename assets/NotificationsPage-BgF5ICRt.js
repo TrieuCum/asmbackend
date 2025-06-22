@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{a as n,s,b as t}from"./index-BahtY7yE.js";const r={},a={class:"container"};function c(i,o){return s(),n("div",a,o[0]||(o[0]=[t("h1",null,"Thông báo",-1),t("p",null,"Đây là trang thông báo.",-1)]))}const f=e(r,[["render",c]]);export{f as default};
